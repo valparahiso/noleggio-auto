@@ -1,0 +1,67 @@
+.App {
+    background-image: url(../img/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%; 
+    min-height: 100vmin;
+
+}
+
+.cont1 { 
+    margin-top:10px
+}
+
+.cont2 { 
+    margin-bottom:10px
+}
+
+.cardMargin{
+    margin-top:15px
+}
+
+.cardHeight{
+    height: 100%;
+}
+
+.checkboxFloat{
+    float:left
+}
+
+.background-std{
+    background-color:rgba(255,255,255,0.85)
+}
+
+.background-drk{
+    background-color:#5e6b776b
+}
+
+.navFont{
+    font-size:120%; 
+    white-space :nowrap
+}
+
+.h4Margin{
+    margin:auto
+}
+
+.navlinkStyle{
+    color:black;
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-right:3%;
+    margin-left: 3%;
+}
+
+.background-red{
+    background-color:#c14f4f6b
+}
+
+.noPadding{
+    padding:0
+}
+
+.bodyFont{
+    font-size :50px
+}
